@@ -6,7 +6,7 @@ public class videoclub {
 
     public void alquilar(final int pelicula) {
     }
-
+	System.out.println("jeejjejejejejeje osas");
     public void devolver(final int pelicula) {
     }
 
